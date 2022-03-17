@@ -1,0 +1,220 @@
+body {
+       width: 100%;
+       margin: 0;
+       height: 100%;
+       font-family: 'poppins', sans-serif
+}
+
+/*@@@@@@@ start top section @@@@@@@@*/
+
+#top-area {
+       height: 500px;
+       background-image: url(./images/header-bg.png);
+       background-position: center center;
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+
+
+.half-width {
+       width: 40%;
+       float: left;
+}
+
+.right img {
+       width: 80%;
+       margin-top: 5%;
+
+
+}
+
+#top-area .left {
+       margin-top: 5%;
+       margin-left: 15%;
+}
+
+h2 {
+       font-size: 40px;
+}
+
+h2 span {
+       color: #ff8063;
+}
+
+button {
+       padding: 10px 30px;
+       color: #fff;
+       text-transform: uppercase;
+       background-color: #ff8063;
+       border: none;
+}
+
+button a {
+       color: #fff;
+       text-decoration: none;
+       font-size: 18px;
+}
+
+.left p {
+       font-size: 18px;
+       color: dimgray;
+}
+
+/*@@@@@@@ end top section @@@@@@@@*/
+/*@@@@@@@ start middle section @@@@@@@@*/
+#middle-area {
+
+       height: 600px;
+       background-color: rgb(250, 246, 246);
+}
+
+.left img {
+       width: 80%;
+       margin-top: 0%;
+
+
+}
+
+#middle-area .left {
+       margin-top: 5%;
+       margin-left: 10%;
+}
+
+#middle-area .right {
+       font-size: 19px;
+       margin-top: 12%;
+       margin-left: 0%;
+}
+
+/*@@@@@@@ end middle section @@@@@@@@*/
+/* start bottom area  */
+#bottom-area {
+       width: 100%;
+       height: 438px;
+       background-color: rgb(242, 239, 239);
+       padding: 50px 0;
+
+}
+
+
+.single-image {
+       width: 30%;
+       float: left;
+       margin-top: 50px;
+       margin-left: 10PX;
+       border: 10px solid #fff;
+       border-radius: 15px;
+       padding: 5px;
+       box-shadow: 5px 5px 15px lightgray;
+       height: 400px;
+}
+
+#bottom-area h4 {
+       margin-top: 0px;
+       text-align: center;
+       font-size: 25px;
+
+}
+
+#bottom-area span {
+       margin-top: 0px;
+       text-align: center;
+       font-size: 25px;
+       color: #ff8063;
+
+}
+
+/* END bottom area  */
+/* start botom2 area  */
+
+#last-field{
+       margin-top: 200px;
+       margin-bottom: 50px;
+}
+.inquery {
+               background-image: url(./images/inquery-bg.png);
+          background-position: center center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          width: 90%;
+          height: 170px;
+          margin: 0 auto;
+          border-radius: 20px;
+}
+.middle-portion{
+       width: 60%;
+       float: left;
+       margin: 20px auto;
+       margin-left: 100px;
+      
+}
+.left-side{
+       /* width: 50%; */
+       float: left;
+       margin-top: 70px;
+       margin-left: 100px;
+}
+
+.lets-chat{
+       background: linear-gradient(60deg, tomato, #FF1499);;
+}
+
+
+
+#last-field .left {
+       margin-top: 15%;
+       margin-left: 17%;
+}
+
+.middle-portion h5 {
+       font-size: 30px;
+       color: #fff;
+}
+/* ending tag start */
+#ending {
+       width: 100%;
+       height: 200px;
+       background-color: rgb(242, 239, 239);
+       padding: 50px 0;
+       text-align: center;
+       font-size: 25px;
+
+}
+
+.end p {
+       margin-top: 0px;
+       text-align: center;
+       font-size: 14px;
+}
+
+/* closing */
+#closing-area {
+       width: 100%;
+       height: 300px;
+       text-align: center;
+
+}
+.stay h6{
+       font-size: 20px;
+}
+
+.closing1 {
+       font-size: 25px;
+}
+
+#closing-area .images {
+       width: 100%;
+       height: 10%;
+       float: left;
+      
+}
+#closing-area img{
+       width: 50px;
+       height: 50px;
+}
+#nebulas{
+       width: 100%;
+       height: 30px;
+     text-align: center;
+     background-color: rgb(228, 224, 224);
+}
